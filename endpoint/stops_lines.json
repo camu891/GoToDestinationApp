@@ -2,20 +2,20 @@
 	"home":
 			[{
 			"name":"C1023 - LINEA 10",
-			"callback":"C1023-1278"
+			"callback":"C1023-1278_10"
 			},{
 			"name":"C1023 - LINEA 18",
-			"callback":"C1023-1286"
+			"callback":"C1023-1286_18"
 			}
 			],
 
 	"work":
 			[{
 			"name":"C4078 - LINEA 18",
-			"callback":"C4078-1286"
+			"callback":"C4078-1286_18"
 			},{
 			"name":"C4078 - LINEA 13",
-			"callback":"C4078-1281"
+			"callback":"C4078-1281_13"
 			}
 			]
 }
