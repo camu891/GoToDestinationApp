@@ -2,11 +2,35 @@
 	"_comment":"The callback format is: <stopId>-<groupIdApi>_<lineNumber>",
 	"home":
 			[{
-			"name":"C1023 - 10",
+			"name":"C1023 - 10 - Arguello",
 			"callback":"C1023-1278_10"
 			},{
-			"name":"C1023 - 18",
+			"name":"C1023 - 18 - Arguello",
 			"callback":"C1023-1286_18"
+			},
+			{
+			"name":"C4006 - 10 - Av. Colón",
+			"callback":"C4006-1278_10"
+			},
+			{
+			"name":"C4008 - 13 - Av. Colón",
+			"callback":"C4008-1281_13"
+			},
+			{
+			"name":"C4008 - 19 - Av. Colón",
+			"callback":"C4008-1287_19"
+			},
+			{
+			"name":"C4101 - 21 - Av. Colón",
+			"callback":"C4101-1300_21"
+			},
+			{
+			"name":"C4101 - 22 - Av. Colón",
+			"callback":"C4101-1301_22"
+			},
+			{
+			"name":"C4378 - 23 - Av. Colón",
+			"callback":"C4378-1302_23"
 			}
 			],
 
