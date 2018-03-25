@@ -1,4 +1,5 @@
 {
+	"_comment":"The callback format is: <stopId>-<groupIdApi>_<lineNumber>",
 	"home":
 			[{
 			"name":"C1023 - LINEA 10",
@@ -11,11 +12,20 @@
 
 	"work":
 			[{
-			"name":"C4078 - LINEA 18",
-			"callback":"C4078-1286_18"
-			},{
 			"name":"C4078 - LINEA 13",
 			"callback":"C4078-1281_13"
+			},
+		    {
+			"name":"C4078 - LINEA 18",
+			"callback":"C4078-1286_18"
+			},
+			{
+			"name":"C4078 - LINEA 19",
+			"callback":"C4078-1287_19"
+			},
+			{
+			"name":"C4078 - LINEA 83",
+			"callback":"C4078-1338_83"
 			}
 			]
 }
